@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="meuprojeto-bkp"
+	default="bkp"
+	basedir=".">
+<property name="projeto" value="${ant.project.name}" />
+<property name="bkp-dir" value="local-do-backup" />
+<property name="diretorio-para-zipar" value=".." />
+<target name="clean">
+	<delete file="${projeto}.zip" />
+</target>
+<target name="bkp">
+	<zip destfile="${projeto}.zip">
+	  <fileset dir="${diretorio-para-zipar}" />
+	</zip>
+<copy file="${projeto}.zip" todir="${bkp-dir}"/>
+</target>
+</project>
+
