@@ -8,3 +8,5 @@ Desenvolvido em meados de Agosto de 2008 na Universidade Federal de Campina Gran
 Desenvolvedores:
 Alysson Milanez
 Erlon Bezerra
+
+[![Build Status](https://travis-ci.com/alyssonfm/pyfighter.svg?branch=master)](https://travis-ci.com/alyssonfm/pyfighter)
