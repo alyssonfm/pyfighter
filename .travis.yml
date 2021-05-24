@@ -1,2 +1,3 @@
 language: python
-sudo: false
+install:
+python ./src/menu.py
