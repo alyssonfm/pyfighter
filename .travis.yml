@@ -1,3 +1,2 @@
 language: python
-install:
-python ./src/menu.py
+install: python ../src/menu.py
