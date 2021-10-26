@@ -8,7 +8,7 @@
 <target name="clean">
 	<delete file="${projeto}.zip" />
 </target>
-<target name="bkp">
+<target name="bkp" depends="clean">
 	<zip destfile="${projeto}.zip">
 	  <fileset dir="${diretorio-para-zipar}" />
 	</zip>
