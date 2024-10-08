@@ -9,4 +9,4 @@ Desenvolvedores:
 Alysson Milanez
 Erlon Bezerra
 
-[![Build Status](https://travis-ci.com/alyssonfm/pyfighter.svg?branch=master)](https://app.travis-ci.com/github/alyssonfm/pyfighter)
+[![Build Status](https://app.travis-ci.com/alyssonfm/pyfighter.svg?token=3nygTuQCUW7Ngknd5HW5&branch=master)](https://app.travis-ci.com/github/alyssonfm/pyfighter)
