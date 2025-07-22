@@ -13,3 +13,5 @@ Desenvolvedores:
 Alysson Milanez, Erlon Bezerra
 
 [![Build Status](https://app.travis-ci.com/alyssonfm/pyfighter.svg?token=3nygTuQCUW7Ngknd5HW5&branch=master)](https://app.travis-ci.com/github/alyssonfm/pyfighter)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=alyssonfm_pyfighter&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=alyssonfm_pyfighter)
