@@ -10,7 +10,7 @@ Totalmente criado na linguagem Python.
 Desenvolvido em meados de Agosto de 2008 na Universidade Federal de Campina Grande.
 
 Desenvolvedores:
-Alysson Milanez, Erlon Bezerra
+Alysson Milanez, Erlon Bezerra.
 
 [![Build Status](https://app.travis-ci.com/alyssonfm/pyfighter.svg?token=3nygTuQCUW7Ngknd5HW5&branch=master)](https://app.travis-ci.com/github/alyssonfm/pyfighter)
 
